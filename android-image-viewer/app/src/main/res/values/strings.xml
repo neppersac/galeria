@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Image Viewer</string>
+    <string name="select_folder">Select Folder</string>
+    <string name="no_images_found">No images found in this folder.</string>
+    <string name="image_selected">Image Selected</string>
+    <string name="fullscreen_image">Fullscreen Image</string>
+</resources>
